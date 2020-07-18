@@ -1,0 +1,9 @@
+nav {
+    background: red;
+    position: sticky;
+    display: flex;
+    margin: 20px 0px;
+    z-index: 3;
+    offset: sticky;
+}
+
